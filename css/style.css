@@ -303,7 +303,7 @@ a:focus {
   display: table-cell;
   vertical-align: middle;
 }
-#feature .feature-icon .fa {
+#feature .feature-icon  .fas  {
   color: #ffffff;
   font-size: 36px;
   margin: 0;
